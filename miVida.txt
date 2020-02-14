@@ -1,2 +1,3 @@
-Hola soy lautaro, me encuentro bien.
+Hola soy lautaro
+Estoy estudiando Git
 
