@@ -1,1 +1,2 @@
 Hola soy lautaro
+Estoy estudiando Git
